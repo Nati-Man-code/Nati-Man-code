@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nathaniel Asnake
-- 👀 I’m interested in Machine Learning || GenAI || Data Engineering || Software development || Game Art
-- 🌱 I’m currently Working On Quantum Computing , Artificial General Intelligence for Hannson Robotics & Software development 
-- 💞️ I’m looking to collaborate on AGI Research and Development, Software Projects and Game World 
+- 👀 I’m interested in 
+- 🌱 I’m currently Working On 
+- 💞️ I’m looking to collaborate on
 
 
 <!---
